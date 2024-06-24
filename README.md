@@ -1,34 +1,38 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABU+SAID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Catruc+Andrei.;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=catrucdev&color=brightgreen)
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
+- 🔭 Focusing on FullStack + AI (Frontend + Backend + DevOps).😎
+- 🌱 Trying to become an expert in Fullstack + AI development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- 🥅 2024 Goals:
+  - Learn Cloud on AWS and Azure.
+  - Learn Generative AI
 
 ---
 
 ### Connect With Me:
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abusaid.riyaz)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-said-bd/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abu_said_bd)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-said-bd/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abu_said_bd)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/said7388)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abusaid7388@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifresh.2004@gmail.com)
 
 ---
 
 ### Languages and Tools:
 
+![C++](https://img.shields.io/badge/C++-F7F7F7?style=flat-square&logo=C&logoColor=00A7D0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=61DAFB)
+![R](https://img.shields.io/badge/R-F7F7F7?style=flat-square&logo=R&logoColor=00A7D0)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-f7f7f7?style=flastic&logo=Next.js&logoColor=000000)
@@ -41,11 +45,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31658D?style=flastic&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![Fastify](https://img.shields.io/badge/Fastify-F7F7F7?style=flat-square&logo=fastify&logoColor=49A248)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
 ![NestJS](https://img.shields.io/badge/Nestjs-000000?style=flat-square&logo=nestjs&logoColor=D9224D)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-yellow?style=flat-square&logo=Tensorflow&logoColor=00A7D0)
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
@@ -54,33 +60,16 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catrucdev&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Catruc Andrei's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=algolia" alt="said7388" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catrucdev&theme=algolia" alt="said7388" />
 </p>
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catrucdev&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
-
----
-
-
-### Top Repositories
-
-
-<a href="https://github.com/said7388/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
-</a>
