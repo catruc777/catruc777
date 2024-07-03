@@ -19,7 +19,7 @@
 ### Connect With Me:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bandit_of_justice)
-[![Skype Badge](https://img.shields.io/badge/Skype-green?style=for-the-badge&logo=telegram&logoColor=white)](https://join.skype.com/live:.cid.2c1dd047f52fc0c7)
+[![Skype Badge](https://img.shields.io/badge/Skype-green?style=for-the-badge&logo=telegram&logoColor=white)](https://join.skype.com/live:fossilstar)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifresh.2004@gmail.com)
 
 ---
@@ -61,7 +61,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=catruc777&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Catruc Andrei's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catruc777&theme=algolia" alt="said7388" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catruc777&theme=algolia" alt="catruc777" />
 </p>
 
 ---
