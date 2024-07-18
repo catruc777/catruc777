@@ -16,12 +16,12 @@
 
 ---
 
-### Connect With Me:
+<!-- ### Connect With Me:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bandit_of_justice)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifresh.2004@gmail.com)
 
----
+--- -->
 
 ### Languages and Tools:
 
